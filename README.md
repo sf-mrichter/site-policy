@@ -21,7 +21,7 @@ That's easy: just be responsible. Follow our [Code of Conduct](CODE_OF_CONDUCT.m
 
 - Please don't post legal complaints or ask for technical support. We may not respond to issues promptly. If you need help, [contact Support](https://github.com/contact) and they'll get you an answer.
 -	Please avoid hypotheticals. We can't give you legal advice, which means we often can't tell you if a hypothetical situation would or wouldn't be a violation of our policies. We also can't tell you what you should or shouldn't do. We can tell you how we interpret our policies.
-- Please don't give other users legal advice, to avoid confusion.
+Please don't give other users legal advice. Legal advice tends to confuse users.
 
 ### How often will GitHub review these policies?
 
